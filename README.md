@@ -39,20 +39,20 @@ pip install -r requirements.txt
 
 ```
 metage/
-├── notebooks/               # Jupyter notebooks for analysis
+├── notebooks/                 # Jupyter notebooks for analysis
 │   ├── 1_data_loading.ipynb
 │   ├── 2_kegg_analysis.ipynb
 │   ├── 3_model_building.ipynb
 │   ├── 4_fba_analysis.ipynb
 │   └── 5_visualization.ipynb
-├── src/                    # Source code
+├── src/                       # Source code
 │   ├── data_loader.py
 │   ├── model_utils.py
 │   └── visualization.py
-├── data/                   # Data directory
-│   ├── raw/               # Raw data files
-│   └── processed/         # Processed data files
-└── results/               # Analysis results
+├── data/                      # Data directory
+│   ├── raw/                   # Raw data files
+│   └── processed/             # Processed data files
+└── results/                   # Analysis results
 ```
 
 ## Analyzed Pathways
