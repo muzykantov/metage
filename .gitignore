@@ -169,6 +169,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-# Temporary section for dependencies
-requirements.txt
